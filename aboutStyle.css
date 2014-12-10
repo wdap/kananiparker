@@ -10,14 +10,14 @@ h1{
 	font:  'Open+Sans', normal;
 	margin-left: 280px;
 	margin-top:  40px;
-	color:white
+	color:black;
 }
 
 #write{
 	font: 20px 'Open+Sans', normal;
 	margin-left: 200px;
 	display:block;
-	color:white
+	color:black;
 }
 #btn{
 	margin-top: 100px;
